@@ -8,7 +8,7 @@ int version() {
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, Wdddorld!" << std::endl;
     printf("%d\n", version());
     return 0;
 }
